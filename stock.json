@@ -1,0 +1,29 @@
+{
+    "stock": [
+        {
+            "productCode": 101,
+            "productDescription": "Blue Pen",
+            "stock": 200
+        },
+        {
+            "productCode": 102,
+            "productDescription": "University Notebook",
+            "stock": 70
+        },
+        {
+            "productCode": 103,
+            "productDescription": "White Eraser",
+            "stock": 200
+        },
+        {
+            "productCode": 104,
+            "productDescription": "HB Black Pencil",
+            "stock": 320
+        },
+        {
+            "productCode": 105,
+            "productDescription": "Yellow Highlighter",
+            "stock": 90
+        }
+    ]
+}

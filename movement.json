@@ -1,0 +1,22 @@
+[
+    {
+        "movementId": 1,
+        "description": "Goods received into warehouse",
+        "type": "entry",
+        "productCode": 101,
+        "productDescription": "Blue Pen",
+        "quantity": 50,
+        "finalStock": 200,
+        "date": "2026-10-17"
+    },
+    {
+        "movementId": 2,
+        "description": "Goods removed from warehouse",
+        "type": "exit",
+        "productCode": 102,
+        "productDescription": "University Notebook",
+        "quantity": 5,
+        "finalStock": 70,
+        "date": "2026-10-17"
+    }
+]
